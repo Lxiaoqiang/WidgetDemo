@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WidgetDemo</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="str_title_tip">Add Widgets to Home Screen</string>
+    <string name="str_instructions">Instructions</string>
+
+    <string name="str_tip1">Long press empty on home screen</string>
+    <string name="str_tip2">Tap the [+] in the upper left corner to set the home widget</string>
+    <string name="str_tip3">Search for [abc] widget and add to home screen</string>
+
+    <string name="str_ok">Okay</string>
+</resources>
